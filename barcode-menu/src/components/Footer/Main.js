@@ -33,8 +33,8 @@ function Main() {
                             <div className="footer-col links-col col-lg-3 col-md-6 col-sm-12">
                                 <div className="inner wow fadeInLeft" data-wow-delay="0ms" data-wow-duration="1500ms">
                                     <ul className="links">
-                                        <li> <Link to="#">No3 Lounge Website</Link></li>
-                                        <li> <Link to="#">Leave a Feedback</Link></li>
+                                        <li> <Link to="https://no3lounge.com/">No3 Lounge Website</Link></li>
+                                        <li> <Link to="https://no3lounge.com/feedback">Leave Feedback</Link></li>
                                     </ul>
                                 </div>
                             </div>
