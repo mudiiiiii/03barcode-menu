@@ -40,8 +40,8 @@ function Main() {
                                 </div>
                                 <div className="top-right clearfix">
                                     <ul className="top-info clearfix">
-                                        <li><Link to="tel:+11234567890"><i className="icon far fa-phone"></i> +234-coming-soon </Link></li>
-                                        <li><Link to="mailto:booking@restaurant.com"><i className="icon far fa-envelope"></i> coming soon</Link></li>
+                                        <li><Link to="tel:+234 901 000 6669"><i className="icon far fa-phone"></i> +234 901 000 6669 </Link></li>
+                                        <li><Link to="mailto:events@no3lounge.com"><i className="icon far fa-envelope"></i> events@no3lounge.com</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -52,8 +52,12 @@ function Main() {
                         <div className="auto-container">
                             <div className="main-box d-flex justify-content-between align-items-center flex-wrap">
 
-                                <div className="logo-box">
-                                    <div className="logo"><Link to="/" title="No3 Lounge"><img src={logonew} alt="No3 Lounge" title="No3 Lounge" /></Link></div>
+                            <div className="logo-box">
+                                    <div className="logo">
+                                        <Link to="https://no3lounge.com/" title="No3 Lounge">
+                                            <img src={logonew} alt="No3 Lounge" title="No3 Lounge" style={{ width: '100px', height: 'auto' }} />
+                                        </Link>
+                                    </div>
                                 </div>
 
                                 <div className="nav-box clearfix">

@@ -19,8 +19,8 @@ function Main() {
                                         <div className="info">
                                             <ul>
                                                 <li>#3 University Road, Akoka Lagos</li>
-                                                <li><Link to="mailto:booking@domainname.com">coming soon</Link></li>
-                                                <li><Link to="tel:+88-123-123456">Booking Request : +234-coming-soon</Link></li>
+                                                <li><Link to="mailto:info@no3lounge.com">info@no3lounge.com</Link></li>
+                                                <li><Link to="tel:+234 901 000 6669">Booking Request : +234 901 000 6669</Link></li>
                                                 <li>Open : 04:00 pm - 12:00 am</li>
                                             </ul>
                                         </div>
@@ -45,7 +45,7 @@ function Main() {
                                         <li> <Link to="https://www.facebook.com">facebook</Link></li>
                                         <li> <Link to="https://www.instagram.com">instagram</Link></li>
                                         <li> <Link to="https://twitter.com">Twitter</Link></li>
-                                        <li> <Link to="https://www.youtube.com">Youtube</Link></li>
+                                        <li> <Link to="https://www.youtube.com/@NO3RESTOBAR">Youtube</Link></li>
                                         <li> <Link to="https://www.google.com/maps">Google map</Link></li>
                                     </ul>
                                 </div>
@@ -56,7 +56,11 @@ function Main() {
 
                 <div className="footer-bottom">
                     <div className="auto-container">
-                        <div className="copyright">&copy; 2024 No3 Lounge. All Rights Reserved   |    Crafted by <Link to="https://github.com/mudiiiiii" target="blank">Mudiaga Otojareri</Link> with template from <Link to="https://themeforest.net/user/kalanidhithemes" target="blank">Kalanidhi Themes</Link></div>
+                        <div className="copyright">&copy; 2024 No3 Restobar. All Rights Reserved </div>
+                        <div className="template-credit">
+                        Created by <Link to="https://github.com/mudiiiiii" target="blank">Mudiaga Otojareri</Link>  | Template from 
+        <a href="https://themeforest.net/user/kalanidhithemes" target="_blank" rel="noopener noreferrer"> Kalanidhi Themes</a>
+      </div>
                     </div>
                 </div>
 
